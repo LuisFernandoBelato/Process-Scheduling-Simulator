@@ -54,6 +54,10 @@ O sistema opera manipulando arquivos de texto para simular o fluxo de dados:
 
 
 * **Este projeto depende da biblioteca `conio2`. Para compilar e executar:**
+  
+---
+
+* **OBS:** Deixarei no repositório uma pasta **Utils** contendo o enunciado do trabalho proposto e um guia de instalação da biblioteca do `conio2`, considerando o `DEV C++` como ambiente.
 
 ---
 
